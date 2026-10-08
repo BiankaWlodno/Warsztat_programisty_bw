@@ -1,0 +1,8 @@
+ls – wyświetla listę plików i katalogów w bieżącym katalogu.
+
+
+tree – pokazuje strukturę katalogów w formie drzewa.
+Przykład: tree ~/Dokumenty
+
+
+cp – kopiuje pliki lub katalogi.
